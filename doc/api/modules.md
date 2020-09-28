@@ -895,7 +895,7 @@ loading.
 <!-- YAML
 added: v0.1.16
 deprecated:
-  - REPLACEME
+  - v12.19.0
   - v14.6.0
 -->
 
